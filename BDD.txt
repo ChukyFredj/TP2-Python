@@ -1,0 +1,13 @@
+5
+3
+            --------------------
+            Nom: 
+            Auteur: 
+            Maison d'edition: 
+            Code barre: 
+            Type roman: Policier
+            Description: 
+            --------------------
+            
+
+            
